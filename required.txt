@@ -4,6 +4,7 @@ blinker
 boto3
 botocore
 cffi
+qrcode
 click
 colorama
 cryptography
