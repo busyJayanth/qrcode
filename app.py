@@ -35,4 +35,4 @@ def generate_qr():
     return f"data:image/png;base64,{qr_base64}"
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run()
